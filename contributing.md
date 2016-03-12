@@ -1,1 +1,1 @@
-This is contributing file for my project 
+his is contributing file for git class
